@@ -9,7 +9,8 @@
 <h3 align="left">Architectural overview:</h3>
 - Application built using MVVM architecture based on protocols.<br/>
 - Specific class (NetworkManager) to make API calls.<br/>
-- Use of cache to save image downloads.
+- Use of cache to save image downloads.<br/>
+- I used Swift Package Manager to implement third-party libraries.
 
 <h3 align="left">Libraries used:</h3>
 - ViewInspector: I used this external library to simplify and improve unit tests legibility.<br/>
