@@ -44,11 +44,6 @@
 			path = MovieDatabaseTests;
 			sourceTree = "<group>";
 		};
-		73C0752D2E8325350016D9B6 /* MovieDatabaseUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MovieDatabaseUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +77,6 @@
 			children = (
 				73C075122E8325330016D9B6 /* MovieDatabase */,
 				73C075232E8325350016D9B6 /* MovieDatabaseTests */,
-				73C0752D2E8325350016D9B6 /* MovieDatabaseUITests */,
 				73C075112E8325330016D9B6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -158,9 +152,6 @@
 			);
 			dependencies = (
 				73C0752C2E8325350016D9B6 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				73C0752D2E8325350016D9B6 /* MovieDatabaseUITests */,
 			);
 			name = MovieDatabaseUITests;
 			packageProductDependencies = (
